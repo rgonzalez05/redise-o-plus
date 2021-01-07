@@ -1,0 +1,149 @@
+body{
+    background-image: url("https://static.wixstatic.com/media/cd9bec_9e218baa86c646dabfb278f4799c56e3~mv2.jpg/v1/fill/w_1400,h_756,al_c,q_85/cd9bec_9e218baa86c646dabfb278f4799c56e3~mv2.webp");
+}
+#diseño{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5%;
+    flex-direction: column;
+}
+#hola{
+    font-size: 70px;
+    color: rgba(255, 255, 255, 0.815);
+    margin: 0;
+}
+#pod{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+.escu{
+    margin-left: 12%;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    background-color: whitesmoke;
+    margin-right: 25%;
+}
+
+#resul{
+    font-size: 40px;
+    color: white;
+    margin-top: 20%;
+}
+#gg{
+    margin-top: -65px;
+    color:black;
+}
+#pla{
+    font-size: 50px;
+    color: black;
+}
+#imagpl{
+    margin-top: 10px;
+
+}
+#spo{
+margin-top: 3%;
+margin-left: 15%;
+}
+#app{
+    margin-top: 3%;
+    margin-left: 15%;
+    }
+    #dee{
+        margin-top: 3%;
+        margin-left: 15%;
+        }
+        #goo{
+            margin-top: 3%;
+            margin-left: 15%;
+            }
+#encu{
+    font-size: 150%;
+}
+#titu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 550%;
+}
+#exp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 275%;
+}
+#lis{
+    font-size: 275%;
+}
+#info{
+    font-size: 250%;
+    color: rgba(0, 0, 0, 0.548);
+}
+#expo{
+color: white;
+font-size: 400%;
+}
+#avan{
+    font-size: 275%;
+}
+#neg{
+    color: rgba(255, 255, 255, 0.767);
+    font-size: 200%;
+}
+#produc{
+    font-size: 400%;
+}
+#dbf{
+    font-size: 250%;
+}
+#dbf1{
+    font-size: 250%;
+}
+#dbf2{
+    font-size: 250%;
+}
+#dbf3{
+    font-size: 250%;
+}
+#dbf4{
+    font-size: 250%;
+}
+#dbf5{
+    font-size: 250%;
+}
+#este{
+font-size: 400%;
+color: white;
+}
+#avas{
+font-size: 275%;
+}
+#lists{
+    font-size: 225%;
+}
+#gesti{
+    font-size: 400%;
+    color: white;
+}
+#moni{
+    font-size: 275%;
+}
+#venta{
+    font-size: 375%;
+    color: white;
+}
+#taja{
+font-size: 325%;
+}
+#ven{
+    font-size: 225%;
+}
+#bene{
+    font-size: 325%;
+    }
+    #ben{
+        font-size: 225%;
+    }
